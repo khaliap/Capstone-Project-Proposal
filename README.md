@@ -16,10 +16,10 @@ This exercise is designed to help you narrow the scope of your research down to 
 * Colyseus
 
 ## Problem Statement
-> _Your problem statement is a concise (100 words or less) explanation of the problem that your project will address and the potential impact that the solution will have. In other words, what's "new" about this thing that you're creating and why should people care. For additional guidance, see [here](https://www.scribbr.com/research-process/problem-statement/)._
+>_If you are ever feeling lonely or bored our game can change that. It is a high-paced action game that you need to be strategic about.  It also is a multiplayer game with text chat and voice chat so you can talk to your friends while you play the game. This game is easily accessible since all you need to do is to search the game on the web put in your email and a password then play. 
 
 ## Proposed Solution
-> _In 100 words or less, describe what you plan on building and how it addresses your selected problem? In what ways is your solution novel?_
+> _Our game is based on hot potato, it is a 4-player game, 1 random player has a potato at the beginning of the round and has to pass it before the timer goes out. All throughout the map, there are power-ups for both the players without the potato and with it. Those power-ups are speed, shield, and double jump. There will be 3 different maps to choose from and each power-up image will change with the map theme. 
 
 ## Anticipated Technical Challenges
 > _What are the key technical challenges that your team will have to solve in order to ship this solution?_
