@@ -4,13 +4,17 @@ This exercise is designed to help you narrow the scope of your research down to 
 
 
 ## Project Team
-* ...
-* ...
+* Liam
+* Jarae
+* Khalia
   
 ## Research Area(s)
 > _What technical topic(s) are you planning to explore through this project?_
-* ...
-* ...
+* Kaboom
+* React
+* Postgres
+* Ready Player Me
+* Colyseus
 
 ## Problem Statement
 > _Your problem statement is a concise (100 words or less) explanation of the problem that your project will address and the potential impact that the solution will have. In other words, what's "new" about this thing that you're creating and why should people care. For additional guidance, see [here](https://www.scribbr.com/research-process/problem-statement/)._
@@ -20,8 +24,9 @@ This exercise is designed to help you narrow the scope of your research down to 
 
 ## Anticipated Technical Challenges
 > _What are the key technical challenges that your team will have to solve in order to ship this solution?_
-* ...
-* ...
+* Character frame movements
+* Connecting multiple players toether on one sever and allowing them to see the same thing at the same time 
+
 
 ## Supporting Research
 > _Please include hyperlinks to blogs, research papers, and books that have helped inform your opinion so far or those that you believe will guide your research?_
