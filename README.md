@@ -9,12 +9,10 @@ This exercise is designed to help you narrow the scope of your research down to 
 * Khalia
   
 ## Research Area(s)
-* Kaboom
-* React
+* Kaboom.js
+* React.js
 * Postgres
 * Socket io 
-* Ready Player Me
-* Colyseus
 * MUI
 
 ## Problem Statement
@@ -31,5 +29,6 @@ This exercise is designed to help you narrow the scope of your research down to 
 
 ## Supporting Research
 > _Please include hyperlinks to blogs, research papers, and books that have helped inform your opinion so far or those that you believe will guide your research?_
+* 
 
 
